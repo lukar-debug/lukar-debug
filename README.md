@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lukar-debug
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c# and js
-- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me lp35carlos2008@gmail.com
 
 <!---
